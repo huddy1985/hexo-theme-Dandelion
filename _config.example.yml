@@ -1,10 +1,10 @@
 # Header
 menu:
   首页: /
-  前端: categories/front-end
-  后端: back-end
-  标签: javascript:;
+  #前端: categories/front-end
+  #后端: back-end
   归档: archives
+  标签: javascript:;
   订阅: atom.xml
   关于: about
 
@@ -13,15 +13,15 @@ excerpt_link: 阅读更多
 
 # Sidebar
 author:
-  name: Sanonz
-  work: Web Developer &amp; Designer
-  location: Shenzhen, China
+  name: Charlie
+  work: Kernel Dev &amp; Student
+  location: NanJin, China
   avatar_url: /images/avatar.jpg
 
 links:
-  github: https://github.com/sanonz
-  more: http://m.timegoto.com/user/1
-  twitter: https://twitter.com/sanonze
+  github: https://github.com/huddy1985
+  more:
+  twitter:
 
 # widgets:
 # - category

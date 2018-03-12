@@ -1,6 +1,6 @@
-# Concise
+# Dandelion
 
-Hexo 简约主题，响应式设计支持 PC、手机等设备，代码高亮使用 monokai-sublime 风格，[在线预览](https://sanonz.github.io/)。
+Hexo 简约主题，响应式设计支持 PC、手机等设备，代码高亮使用 monokai-sublime 风格，[在线预览](https://huddy1985.github.io/)。
 
 ![Preview](preview.png)
 
@@ -20,26 +20,26 @@ $ npm uninstall hexo-renderer-stylus --save
 ### 安装
 
 ``` bash
-$ git clone https://github.com/sanonz/hexo-theme-concise.git themes/concise
+$ git clone https://github.com/huddy1985/hexo-theme-Dandelion.git themes/dandeline
 ```
 
-**Concise 主题需要 Hexo 2.4 或者更高的版本**
+**Dandelion 主题需要 Hexo 2.4 或者更高的版本**
 
 ### 切换
 
-1. 在 `_config.yml` 配置文件中 把 `theme` 值改为 `concise`.
-2. 复制 `themes/concise/_config.example.yml` 配置文件为 `themes/concise/_config.yml`
+1. 在 `_config.yml` 配置文件中 把 `theme` 值改为 `dandeline`.
+2. 复制 `themes/dandeline/_config.example.yml` 配置文件为 `themes/dandeline/_config.yml`
 
 ### 更新
 
 ``` bash
-cd themes/concise
+cd themes/dandeline
 git pull
 ```
 
 ## 配置
 
-修改 `themes/concise/_config.yml` 配置文件
+修改 `themes/dandeline/_config.yml` 配置文件
 
 ``` yml
 # Header
@@ -57,15 +57,15 @@ excerpt_link: 阅读更多
 
 # Sidebar
 author:
-  name: Sanonz
-  work: Web Developer &amp; Designer
-  location: Shenzhen, China
+  name: Charlie
+  work: Kernel Dev &amp; Student
+  location: NanJin, China
   avatar_url: /images/avatar.jpg
 
 links:
-  github: https://github.com/sanonz
-  more: http://m.timegoto.com/user/1
-  twitter: https://twitter.com/sanonze
+  github: https://github.com/huddy1985
+  more:
+  twitter:
 
 # Disqus 
 disqus:
