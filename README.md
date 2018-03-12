@@ -2,7 +2,7 @@
 
 Hexo 简约主题，响应式设计支持 PC、手机等设备，代码高亮使用 monokai-sublime 风格，[在线预览](https://huddy1985.github.io/)。
 
-![Preview](preview.png)
+![Preview](preview.jpg)
 
 
 ### 前提
